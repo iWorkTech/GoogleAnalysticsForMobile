@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:GoogleAnalyticsTest" x:Class="GoogleAnalyticsTest.GoogleAnalyticsTestPage">
+	<Label Text="Google Analytics Example" VerticalOptions="Center" HorizontalOptions="Center" />
+		  <Grid>
+             
+                <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+						<RowDefinition Height="auto" />
+			
+                       
+                </Grid.RowDefinitions>
+              
+                <Button Grid.Row="0" Text="CAll EVENT" Clicked ="OnClickButtonGoogleEventMethod" VerticalOptions="FillAndExpand" HeightRequest="60" ></Button>
+               
+                <Button Grid.Row="1" Text="CAll Exp" Clicked ="OnClickButtonExpGoogleEventMethod" VerticalOptions="FillAndExpand" HeightRequest="60" ></Button>
+               
+        </Grid>
+	
+		
+	
+</ContentPage>
