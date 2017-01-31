@@ -1,11 +1,14 @@
-# Mobile app analytics using the Google analytics
-This code helps a developer to do the analysis of the mobile application using the google analytics. Google analytics for mobile apps to measure and optimise user acquisition and engagement with mobile apps. 
-With easy-to-use SDKs for Android and iOS, helpful classes and methods to track user activities, one can generate useful statistics. It allows user to discover the popular screen or a path of your app which is used mostly by it’s users.  
+# Mobile App analytics using the Google analytics
+This utility code helps in capturing mobile application analytics using the google analytics to measure and optimise user acquisition and engagement.
+
+With easy-to-use SDKs for Android and iOS, helpful classes and methods to track user activities, one can generate useful statistics. It allows users to discover the popular screen or a flow through the application screens.  
+
 Google Analytics for Mobile Apps enables you to:
-- Understand the number of app users. User’s behaviour and demographic. 
+- Understand the number of app users. 
+- User behaviour and demographic. 
 - Customize reports as per your need. 
 - Visualize user navigation paths.
-- List of app’s most popular devices with their OS versions, brands and screen resolution related information.
+- List of most popular devices with their OS versions, brands and screen resolution related information.
 - Visualise crash reporting and exception handling.
 
 ## Available on 
